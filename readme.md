@@ -38,4 +38,4 @@ Esse processo será facilitado em breve.
 
 Ainda não descrevi quais endpoints precisam de token.
 
-Para acessar o repositório do React Front, acesse:https://github.com/lrNas/React-ProjetoIntegrador/
+Para acessar o repositório do React Front, acesse:https://github.com/ArthurPenha/Locar
